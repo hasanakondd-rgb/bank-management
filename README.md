@@ -73,7 +73,7 @@ You need [Node.js](https://nodejs.org/) 18 or newer.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/bank-management.git
+git clone https://github.com/hasanakondd-rgb/bank-management.git
 cd bank-management
 
 # 2. Install dependencies
